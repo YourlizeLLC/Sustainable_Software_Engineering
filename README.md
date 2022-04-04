@@ -26,7 +26,8 @@ By learning algorithm & pattern patterns and understanding fundament concepts, a
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Data Structure & Algorithms for <br>Sustainable Software Engineering</h3>
+<h3 align="center">Sustainability<br>Green Software Engineering
+</h3>
 
   <p align="center">
     <!-- ADD Description  -->
