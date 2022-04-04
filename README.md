@@ -73,18 +73,31 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- 
+
 
 ### The Principles of Sustainable Software Engineering
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com) -->
+* [Carbon: Build applications that are carbon efficient.]()
+* [Build applications that are energy-efficient.]()
+  
+* [Electricity: Build applications that are energy-efficient.]()
+
+* [arbon Intensity: Consume electricity with the lowest carbon intensity.]()
+
+* [Embodied Carbon: Build applications that are hardware efficient.]()
+
+* [Energy Proportionality: Maximize the energy efficiency of hardware.]()
+
+* [Networking: Reduce the amount of data and distance it must travel across the network.]()
+
+* [Demand Shaping: Build carbon-aware applications.]()
+
+* [Optimization: Focus on step-by-step optimizations that increase the overall carbon efficiency.]()
+
+
+
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
