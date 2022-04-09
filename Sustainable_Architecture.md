@@ -8,3 +8,15 @@ Architecture Improvement
 
 Architectural Erosion:
 - need to refactoring 
+
+# Refactoring is Key
+
+# Architechture and Cognitive Psychology
+Approximately 70% of our time is spent reading and understanding existing source code. 20% is spent in solving the problem. And just 10% of our time, we actually write new code.
+
+    ## Components of Structure-Building Process
+    - Chunking: group to memorize 
+      - modularity: well-structured architecture
+    - Hierachies: human memory 
+      - layering
+    - Schemata
