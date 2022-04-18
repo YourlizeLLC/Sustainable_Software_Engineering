@@ -1,5 +1,7 @@
 # Resources 
 
+<https://green-algorithms.org/>
+
 55% of my daily CO2 emissions are controlled by software. It means that software emits 319g CO2 per day and per person.
 
 - [The Carbon Footprint of Servers](https://www.goclimate.com/blog/the-carbon-footprint-of-servers/#:~:text=Emissions%20from%20production%20of%20servers,consumption%3A%200%20kg%20CO2e%2Fyear)
